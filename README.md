@@ -25,7 +25,7 @@
 <!--Linux-->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <!--Jekyll-->
-<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> </p>
+<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a>
 <!--GitLab-->
 <a href="https://about.gitlab.com/free-trial/devsecops/?utm_medium=cpc&utm_source=google&utm_campaign=brand_rlsa__global_exact&utm_content=free-trial&utm_term=gitlab&_bt=656315922370&_bk=gitlab&_bm=e&_bn=g&_bg=148481441276&gclid=EAIaIQobChMIsouJ1prV_wIVWZDVCh2FtgVwEAAYASAAEgLQ8_D_BwE" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a> 
 </p>
