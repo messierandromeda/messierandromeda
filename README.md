@@ -34,7 +34,7 @@
 <!-- Ranks:  S (top 1%), A+ (12.5%), A (25%), A- (37.5%), B+ (50%), B (62.5%), B- (75%), C+ (87.5%) and C (everyone)-->
 <!--![Ya-Ting Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=messierandromeda&show_icons=true&theme=radical)-->
 
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=messierandromeda)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=messierandromeda)](https://git.io/streak-stats)
 
 <!--Shows the most used programming languages-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=messierandromeda&layout=compact)
