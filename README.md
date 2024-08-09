@@ -1,8 +1,6 @@
 <!--### Hi there 👋-->
 <h2 align="left">Hi 👋, I'm Ya-Ting Yang</h2>
-<h3 align="left">I am a student currently studying computer science at Freie Universität Berlin.</h3>
-
-<p align="left">I'm learning about machine learning topics such as diffusion models and transformers. </p>
+<h3 align="left">I am a student currently studying computer science and specializing in machine learning at Freie Universität Berlin.</h3> 
 
 <!--Logo website: https://www.vectorlogo.zone/ -->
 <h3 align="left">Languages and Tools that I have used:</h3>
