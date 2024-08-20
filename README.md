@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 <h2 align="left">Hi 👋, I'm Ya-Ting Yang</h2>
 <h3 align="left">I am a student currently studying computer science and specializing in machine learning at Freie Universität Berlin.</h3> 
-
+Topics that I'm interested in: Diffusion Models, Transformer architecture, Explainable AI, Graph Neural Networks, Style Transfer
 <!--Logo website: https://www.vectorlogo.zone/ -->
 <h3 align="left">Languages and Tools that I have used:</h3>
 <!--Python-->
