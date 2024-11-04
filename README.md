@@ -2,6 +2,8 @@
 <h2 align="left">Hi 👋, I'm Ya-Ting Yang</h2>
 <h3 align="left">I am a student currently studying computer science and specializing in machine learning at Freie Universität Berlin.</h3> 
 Topics that I'm interested in: Diffusion Models, Transformer architecture, Explainable AI, Graph Neural Networks, Style Transfer
+
+🔭 I’m currently working on project using graph neural networks to predict drug-drug combinations
 <!--Logo website: https://www.vectorlogo.zone/ -->
 <h3 align="left">Languages and Tools that I have used:</h3>
 <!--Python-->
@@ -41,7 +43,7 @@ Topics that I'm interested in: Diffusion Models, Transformer architecture, Expla
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
