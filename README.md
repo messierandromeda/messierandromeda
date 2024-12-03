@@ -3,8 +3,8 @@
 <h3 align="left">I am a student currently studying computer science and specializing in machine learning at Freie Universität Berlin.</h3> 
 Topics that I'm interested in: Diffusion Models, Transformer architecture, Explainable AI, Graph Neural Networks, Style Transfer
 
-🌱 I’m currently learning about sentiment analysis, LLM fine-tuning \
-🔭 I’m currently working on a project using graph neural networks to predict drug-drug combinations
+🌱 I’m currently learning about LLM fine-tuning \
+🔭 I’m currently working on using graph neural networks to predict drug-drug combinations as my bachelor's thesis
 <!--Logo website: https://www.vectorlogo.zone/ -->
 <h3 align="left">Languages and Tools that I have used:</h3>
 <!--Python-->
