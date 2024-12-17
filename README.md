@@ -1,10 +1,17 @@
 <!--### Hi there 👋-->
 <h2 align="left">Hi 👋, I'm Ya-Ting Yang</h2>
 <h3 align="left">I am a student currently studying computer science and specializing in machine learning at Freie Universität Berlin.</h3> 
-Topics that I'm interested in: [Diffusion Models](https://arxiv.org/abs/2112.10752), [Transformer architecture](https://arxiv.org/abs/1706.03762), [Explainable AI](https://arxiv.org/abs/2402.05602), [Graph Neural Networks](https://distill.pub/2021/gnn-intro/), [Style transfer](https://arxiv.org/abs/1508.06576) 
+Topics that I'm interested in: 
 
-🌱 I’m currently learning about [GNNExplainer](https://arxiv.org/abs/1903.03894) \
-🔭 I’m currently working on my bachelor's thesis: Drug-drug GNN for drug combination prediction
+[Diffusion Models](https://arxiv.org/abs/2112.10752), [Transformer architecture](https://arxiv.org/abs/1706.03762), [Explainable AI](https://arxiv.org/abs/2402.05602), [Graph Neural Networks](https://distill.pub/2021/gnn-intro/), [Style transfer](https://arxiv.org/abs/1508.06576)
+
+🔭 I’m currently working on my bachelor's thesis: Drug-drug GNN for drug combination prediction. 
+##### Some papers related to my thesis: 
+- [Machine learning approaches for drug combination therapies](https://academic.oup.com/bib/article/22/6/bbab293/6343528)
+- [Multi-task learning for predicting synergistic drug combinations based on auto-encoding multi-relational graphs](https://www.cell.com/iscience/fulltext/S2589-0042(23)02097-7)
+- [Network-based prediction of drug combinations](https://www.nature.com/articles/s41467-019-09186-x)
+- [GNNExplainer](https://arxiv.org/abs/1903.03894)
+
 <!--Logo website: https://www.vectorlogo.zone/ -->
 <h3 align="left">Languages and Tools that I have used:</h3>
 <!--Python-->
@@ -43,6 +50,7 @@ Topics that I'm interested in: [Diffusion Models](https://arxiv.org/abs/2112.107
 <!--**messierandromeda/messierandromeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
