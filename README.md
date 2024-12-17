@@ -4,7 +4,7 @@
 Topics that I'm interested in: Diffusion Models, Transformer architecture, Explainable AI, Graph Neural Networks, Style Transfer
 
 🌱 I’m currently learning about LLM fine-tuning \
-🔭 I’m currently working on using graph neural networks to predict drug-drug combinations as my bachelor's thesis
+🔭 I’m currently working on using graph neural networks to predict drug-drug combinations as my bachelor's thesis (Drug-drug GNN for drug combination prediction)
 <!--Logo website: https://www.vectorlogo.zone/ -->
 <h3 align="left">Languages and Tools that I have used:</h3>
 <!--Python-->
