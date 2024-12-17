@@ -1,10 +1,10 @@
 <!--### Hi there 👋-->
 <h2 align="left">Hi 👋, I'm Ya-Ting Yang</h2>
 <h3 align="left">I am a student currently studying computer science and specializing in machine learning at Freie Universität Berlin.</h3> 
-Topics that I'm interested in: Diffusion Models, Transformer architecture, Explainable AI, Graph Neural Networks, Style Transfer
+Topics that I'm interested in: [Diffusion Models](https://arxiv.org/abs/2112.10752), [Transformer architecture](https://arxiv.org/abs/1706.03762), [Explainable AI](https://arxiv.org/abs/2402.05602), [Graph Neural Networks](https://distill.pub/2021/gnn-intro/), [Style transfer](https://arxiv.org/abs/1508.06576) 
 
-🌱 I’m currently learning about LLM fine-tuning \
-🔭 I’m currently working on using graph neural networks to predict drug-drug combinations as my bachelor's thesis (Drug-drug GNN for drug combination prediction)
+🌱 I’m currently learning about [GNNExplainer](https://arxiv.org/abs/1903.03894) \
+🔭 I’m currently working on my bachelor's thesis: Drug-drug GNN for drug combination prediction
 <!--Logo website: https://www.vectorlogo.zone/ -->
 <h3 align="left">Languages and Tools that I have used:</h3>
 <!--Python-->
