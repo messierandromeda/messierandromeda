@@ -5,12 +5,7 @@ Topics that I'm interested in:
 
 [Diffusion Models](https://arxiv.org/abs/2112.10752), [Transformer architecture](https://arxiv.org/abs/1706.03762), [Explainable AI](https://arxiv.org/abs/2402.05602), [Graph Neural Networks](https://distill.pub/2021/gnn-intro/), [Style transfer](https://arxiv.org/abs/1508.06576)
 
-🔭 I’m currently working on my bachelor's thesis: Drug-drug GNN for drug combination prediction. 
-##### Some papers related to my thesis: 
-- [Machine learning approaches for drug combination therapies](https://academic.oup.com/bib/article/22/6/bbab293/6343528)
-- [Multi-task learning for predicting synergistic drug combinations based on auto-encoding multi-relational graphs](https://www.cell.com/iscience/fulltext/S2589-0042(23)02097-7)
-- [Network-based prediction of drug combinations](https://www.nature.com/articles/s41467-019-09186-x)
-- [GNNExplainer](https://arxiv.org/abs/1903.03894)
+🔭 I’m currently working on my bachelor's thesis: Drug-drug GNN for drug combination prediction, based on the paper [CombDNF: Disease-specific drug combination predictions with network-based features on clinically validated data](https://www.biorxiv.org/content/10.1101/2025.02.18.637825v1)
 
 <!--Logo website: https://www.vectorlogo.zone/ -->
 <h3 align="left">Languages and Tools that I have used:</h3>
