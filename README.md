@@ -5,7 +5,11 @@ Topics that I'm interested in:
 
 [Diffusion Models](https://arxiv.org/abs/2112.10752), [Transformer architecture](https://arxiv.org/abs/1706.03762), [Explainable AI](https://arxiv.org/abs/2402.05602), [Graph Neural Networks](https://distill.pub/2021/gnn-intro/), [Style transfer](https://arxiv.org/abs/1508.06576)
 
-🔭 I’m currently working on my bachelor's thesis: Drug-drug GNN for drug combination prediction, based on the paper [CombDNF: Disease-specific drug combination predictions with network-based features on clinically validated data](https://www.biorxiv.org/content/10.1101/2025.02.18.637825v1). See the code [here](https://github.com/messierandromeda/Bachelor-Thesis) (coming soon!).
+The code for my bachelor thesis: **Drug-drug GNN for Drug Combination Prediction and Explanations**, based on the papers:
+- [Network-based prediction of drug combinations](https://www.nature.com/articles/s41467-019-09186-x) by Cheng et al.
+- [CombDNF: Disease-specific drug combination predictions with network-based features on clinically validated data](https://www.biorxiv.org/content/10.1101/2025.02.18.637825v1) by Hiort et al.
+
+can be viewed [here](https://github.com/messierandromeda/Bachelor-Thesis) (coming soon!).
 
 <!--Logo website: https://www.vectorlogo.zone/ -->
 <h3 align="left">Languages and Tools that I have used:</h3>
@@ -46,6 +50,7 @@ Topics that I'm interested in:
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
+- 🔭 I'm currently working on ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
