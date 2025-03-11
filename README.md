@@ -9,7 +9,7 @@ The code for my bachelor thesis: **Drug-drug GNN for Drug Combination Prediction
 - [Network-based prediction of drug combinations](https://www.nature.com/articles/s41467-019-09186-x) by Cheng et al.
 - [CombDNF: Disease-specific drug combination predictions with network-based features on clinically validated data](https://www.biorxiv.org/content/10.1101/2025.02.18.637825v1) by Hiort et al.
 
-can be viewed [here](https://github.com/messierandromeda/Bachelor-Thesis) (coming soon!).
+can be viewed [here](https://github.com/messierandromeda/Bachelor-Thesis).
 
 <!--Logo website: https://www.vectorlogo.zone/ -->
 <h3 align="left">Languages and Tools that I have used:</h3>
