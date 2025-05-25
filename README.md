@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 <h2 align="left">Hi 👋, I'm Ya-Ting Yang</h2>
-<h3 align="left">I am a student currently studying computer science and specializing in machine learning at Freie Universität Berlin.</h3> 
+<h3 align="left">I am a student who has recently graduated from Freie Universität Berlin with a bachelor's degree in computer science</h3> 
 Topics that I'm interested in: 
 
 [Diffusion Models](https://arxiv.org/abs/2112.10752), [Transformer architecture](https://arxiv.org/abs/1706.03762), [Explainable AI](https://arxiv.org/abs/2402.05602), [Graph Neural Networks](https://distill.pub/2021/gnn-intro/), [Style transfer](https://arxiv.org/abs/1508.06576)
@@ -41,7 +41,7 @@ can be viewed [here](https://github.com/messierandromeda/Bachelor-Thesis).
 <!-- Ranks:  S (top 1%), A+ (12.5%), A (25%), A- (37.5%), B+ (50%), B (62.5%), B- (75%), C+ (87.5%) and C (everyone)-->
 <!--![Ya-Ting Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=messierandromeda&show_icons=true&theme=radical)-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=messierandromeda&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=messierandromeda&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--Shows the most used programming languages-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=messierandromeda&layout=compact)
