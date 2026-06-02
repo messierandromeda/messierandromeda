@@ -1,8 +1,8 @@
 <!--### Hi there 👋-->
 <h2 align="left">Hi 👋, I'm Ya-Ting Yang</h2>
-🌱 I’m currently learning about reinforcement learning in chess 
+🌱 I’m currently learning about reinforcement learning in chess and reading the AlphaTensor paper
 
-🔭 I'm currently working on agentic AI with LangGraph and evaluating LLMs
+🔭 I'm currently working on agentic AI with LangGraph and implementing guardrails
 
 <!--Logo website: https://www.vectorlogo.zone/ -->
 <h3 align="left">Languages and Tools that I have used:</h3>
