@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 <h2 align="left">Hi 👋, I'm Ya-Ting Yang</h2>
-🌱 I’m currently learning about reinforcement learning in chess and reading the AlphaTensor paper
+<!--🌱 I’m currently learning about -->
 
 🔭 I'm currently working on agentic AI with LangGraph and implementing guardrails
 
